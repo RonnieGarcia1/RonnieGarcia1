@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronnie Garcia
-- Born & Raised in New York City.
-- 👀 I’m interested in developing robust websites & webapps across multiple platforms.
-- 🌱 Currently enrolled in a Google funded 1 yr Full Stack Web Development Boot Camp
+- 🗽 Native New Yorker
+- 💻 Full Stack Web Developer | HTML, CSS, Javascript, Python🐍
+- 🌱 Currently enrolled in a 1 yr Google funded Full Stack Web Development Boot Camp.
 
 <!---
 RonnieGarcia1/RonnieGarcia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
