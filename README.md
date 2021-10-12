@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronnie Garcia
 - 🗽 Native New Yorker
-- 💻 Full Stack Web Developer | Html, Css, Javascript, Python🐍
+- 💻 Full Stack Web Developer | Html, Css, Javascript, React.
 - 🌱 Currently enrolled in a 1 yr Google funded Full Stack Web Development Boot Camp.
 
 <!---
