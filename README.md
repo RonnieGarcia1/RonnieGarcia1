@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronnie Garcia
 - 🗽 Native New Yorker
-- 💻 Full Stack Web Developer | Html, Css, Javascript, React.
-- 🌱 Currently enrolled in a 1 yr Google funded Full Stack Web Development Boot Camp.
+- 💻 Full Stack Software Engineer | Javascript, Python, React, React Native. HTML 5, CSS
+
 
 <!---
 RonnieGarcia1/RonnieGarcia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
